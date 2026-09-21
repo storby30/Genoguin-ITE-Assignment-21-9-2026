@@ -191,3 +191,23 @@ html {
 .story-card button:hover {
     background-color: #293721;
 }
+
+.footer {
+    background-color: #3f5f38;
+    color: white;
+    text-align: center;
+    padding: 40px 20px 20px;
+}
+
+.footer h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.footer p {
+    margin-bottom: 15px;
+}
+
+.copyright {
+    font-size: 13px;
+}
